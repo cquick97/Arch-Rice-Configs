@@ -4,6 +4,9 @@ Configs
 Linux config files
 
 AppChan X - violaceous Anonymous theme
+
 userChrome.css goes in ~/.mozilla/firefox/(random).default/chrome/
+
 tint2rc goes in ~/.configs/tint2/
+
 Openbox files go in ~/.configs/openbox/
