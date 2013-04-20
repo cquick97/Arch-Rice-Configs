@@ -1,7 +1,7 @@
 Configs
 =======
 
-Linux config files
+nux config files
 
 AppChan X - violaceous Anonymous theme
 
