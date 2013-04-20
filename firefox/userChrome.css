@@ -121,14 +121,27 @@
                margin-bottom: 0 !important;
                padding: 0 !important;
         }
-        #url-bar {
-            background: none !important;
-            border: none !important;
-            border-radius: 1px 0 0 0 !important;
-            margin: 0 !important;
-            box-shadow: none !important;
-            color: #1c1c1c !important;
-        }
+
+
+         #urlbar {
+                background: #101010 !important;
+                background-image: none !important;
+                border: none !important;
+                -moz-appearance: none !important;
+                border-radius: 0 0 0 0 !important;
+                box-shadow: none !important;
+                color: #ffffff !important;
+                margin-bottom: 0px !important;
+                margin-top: 0px !important;
+                margin-left: 2px !important;
+                margin-right: 2px !important;
+                padding-bottom: 3px !important; 
+                padding-top: 2px !important;
+                padding-left:3px !important;
+                  }
+
+
+
 
 /* scrollbar */
 scrollbar {
