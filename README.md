@@ -1,4 +1,4 @@
-Xnfigs
+Configs
 =======
 
 Linux config files
