@@ -13,4 +13,4 @@ Openbox files go in ~/.configs/openbox/
 
 Openbox theme is 2px but edited so the border is only 1px
 
-vimrc goes /etc/vimrc
+Vimrc goes /etc/vimrc
